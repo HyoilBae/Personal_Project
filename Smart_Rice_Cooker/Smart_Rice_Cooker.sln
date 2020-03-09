@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart_Rice_Cooker", "Smart_Rice_Cooker.csproj", "{5E8BF4E8-3D05-44D6-A067-9166EB3D791C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E8BF4E8-3D05-44D6-A067-9166EB3D791C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8BF4E8-3D05-44D6-A067-9166EB3D791C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8BF4E8-3D05-44D6-A067-9166EB3D791C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8BF4E8-3D05-44D6-A067-9166EB3D791C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7D23502-5921-4709-98BE-3B6C42D9DAF8}
+	EndGlobalSection
+EndGlobal

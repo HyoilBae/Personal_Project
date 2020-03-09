@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\Personal_Project\Console_Tetris\bin\Debug\Console_Tetris.exe.config
+C:\Users\hyoil\source\repos\C#\Personal_Project\Console_Tetris\bin\Debug\Console_Tetris.exe
+C:\Users\hyoil\source\repos\C#\Personal_Project\Console_Tetris\bin\Debug\Console_Tetris.pdb
+C:\Users\hyoil\source\repos\C#\Personal_Project\Console_Tetris\obj\Debug\Console_Tetris.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\Personal_Project\Console_Tetris\obj\Debug\Console_Tetris.exe
+C:\Users\hyoil\source\repos\C#\Personal_Project\Console_Tetris\obj\Debug\Console_Tetris.pdb

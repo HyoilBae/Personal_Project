@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\TheFirstBlackJack\bin\Debug\TheFirstBlackJack.exe.config
+C:\Users\hyoil\source\repos\C#\TheFirstBlackJack\bin\Debug\TheFirstBlackJack.exe
+C:\Users\hyoil\source\repos\C#\TheFirstBlackJack\bin\Debug\TheFirstBlackJack.pdb
+C:\Users\hyoil\source\repos\C#\TheFirstBlackJack\obj\Debug\TheFirstBlackJack.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\TheFirstBlackJack\obj\Debug\TheFirstBlackJack.exe
+C:\Users\hyoil\source\repos\C#\TheFirstBlackJack\obj\Debug\TheFirstBlackJack.pdb

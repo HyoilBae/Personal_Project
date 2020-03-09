@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\Personal_Project\Smart_Rice_Cooker\bin\Debug\Smart_Rice_Cooker.exe.config
+C:\Users\hyoil\source\repos\C#\Personal_Project\Smart_Rice_Cooker\bin\Debug\Smart_Rice_Cooker.exe
+C:\Users\hyoil\source\repos\C#\Personal_Project\Smart_Rice_Cooker\bin\Debug\Smart_Rice_Cooker.pdb
+C:\Users\hyoil\source\repos\C#\Personal_Project\Smart_Rice_Cooker\obj\Debug\Smart_Rice_Cooker.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\Personal_Project\Smart_Rice_Cooker\obj\Debug\Smart_Rice_Cooker.exe
+C:\Users\hyoil\source\repos\C#\Personal_Project\Smart_Rice_Cooker\obj\Debug\Smart_Rice_Cooker.pdb

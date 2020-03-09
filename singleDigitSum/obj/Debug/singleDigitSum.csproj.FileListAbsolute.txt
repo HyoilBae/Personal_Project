@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\singleDigitSum\bin\Debug\singleDigitSum.exe.config
+C:\Users\hyoil\source\repos\C#\singleDigitSum\bin\Debug\singleDigitSum.exe
+C:\Users\hyoil\source\repos\C#\singleDigitSum\bin\Debug\singleDigitSum.pdb
+C:\Users\hyoil\source\repos\C#\singleDigitSum\obj\Debug\singleDigitSum.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\singleDigitSum\obj\Debug\singleDigitSum.exe
+C:\Users\hyoil\source\repos\C#\singleDigitSum\obj\Debug\singleDigitSum.pdb

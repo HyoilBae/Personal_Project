@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\Personal_Project\Website_Script_Reader_Practice\bin\Debug\Website_Script_Reader_Practice.exe.config
+C:\Users\hyoil\source\repos\C#\Personal_Project\Website_Script_Reader_Practice\bin\Debug\Website_Script_Reader_Practice.exe
+C:\Users\hyoil\source\repos\C#\Personal_Project\Website_Script_Reader_Practice\bin\Debug\Website_Script_Reader_Practice.pdb
+C:\Users\hyoil\source\repos\C#\Personal_Project\Website_Script_Reader_Practice\obj\Debug\Website_Script_Reader_Practice.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\Personal_Project\Website_Script_Reader_Practice\obj\Debug\Website_Script_Reader_Practice.exe
+C:\Users\hyoil\source\repos\C#\Personal_Project\Website_Script_Reader_Practice\obj\Debug\Website_Script_Reader_Practice.pdb
