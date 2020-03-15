@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\RiceCookerPractice\bin\Debug\RiceCookerPractice.exe.config
+C:\Users\hyoil\source\repos\C#\RiceCookerPractice\bin\Debug\RiceCookerPractice.exe
+C:\Users\hyoil\source\repos\C#\RiceCookerPractice\bin\Debug\RiceCookerPractice.pdb
+C:\Users\hyoil\source\repos\C#\RiceCookerPractice\obj\Debug\RiceCookerPractice.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\RiceCookerPractice\obj\Debug\RiceCookerPractice.exe
+C:\Users\hyoil\source\repos\C#\RiceCookerPractice\obj\Debug\RiceCookerPractice.pdb

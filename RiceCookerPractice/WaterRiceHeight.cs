@@ -1,0 +1,54 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RiceCookerPractice
+{
+    class WaterRiceHeight
+    {
+        public WaterRiceHeight()
+        {
+            //Default
+        }
+
+        public void riceHeight(int x, int y, int Amount)
+        {
+            int Height = Amount / 1000;
+            // 지우는 부분
+            Console.BackgroundColor = ConsoleColor.Black;
+            for (int i = 0; i < 18; i++)
+            {
+                Console.SetCursorPosition(x, 2 + i);
+                Console.Write("                    ");
+            }
+
+            for (int i = 0; i < Height; i++)
+            {
+                Console.SetCursorPosition(x, 19 - i);
+                Console.Write("* * * * * * * * * *");
+            }
+        }
+
+        public void waterHeight(int x, int y, int Amount)
+        {
+            int Height = Amount / 1000;
+            // 지우는 부분
+            Console.BackgroundColor = ConsoleColor.Black;
+            for (int i = 0; i < 18; i++)
+            {
+                Console.SetCursorPosition(x, 2 + i);
+                Console.Write("                    ");
+            }
+
+            Console.BackgroundColor = ConsoleColor.Blue;
+            for (int i = 0; i < Height; i++)
+            {
+                Console.SetCursorPosition(x, 19 - i);
+                Console.Write("                    ");
+            }
+            Console.BackgroundColor = ConsoleColor.Black;
+        }
+    }
+}
