@@ -1,0 +1,9 @@
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\calculator\calculator\bin\Debug\calculator.exe.config
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\calculator\calculator\bin\Debug\calculator.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\calculator\calculator\bin\Debug\calculator.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.Form1.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.pdb
