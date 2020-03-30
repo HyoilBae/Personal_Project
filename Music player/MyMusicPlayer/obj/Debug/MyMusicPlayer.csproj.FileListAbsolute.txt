@@ -1,0 +1,29 @@
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe.config
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\Interop.WMPLib.dll
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csprojResolveAssemblyReference.cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\Interop.WMPLib.dll
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.ResolveComReference.cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Form1.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Properties.Resources.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.GenerateResource.Cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.pdb
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe.config
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\bin\Debug\MyMusicPlayer.pdb
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\obj\Debug\MyMusicPlayer.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\obj\Debug\MyMusicPlayer.Form1.resources
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\obj\Debug\MyMusicPlayer.Properties.Resources.resources
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.GenerateResource.cache
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\obj\Debug\MyMusicPlayer.exe
+C:\Users\hyoil\source\repos\17 C# Project source code\17 C# Project source code\Project 2 Create a music player\MyMusicPlayer\obj\Debug\MyMusicPlayer.pdb
