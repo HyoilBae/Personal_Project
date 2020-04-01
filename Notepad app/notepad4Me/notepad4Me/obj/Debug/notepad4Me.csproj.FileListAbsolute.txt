@@ -1,0 +1,10 @@
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\notepad4Me\notepad4Me\bin\Debug\notepad4Me.exe.config
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\notepad4Me\notepad4Me\bin\Debug\notepad4Me.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\notepad4Me\notepad4Me\bin\Debug\notepad4Me.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.csprojResolveAssemblyReference.cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.Properties.Resources.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.csproj.GenerateResource.Cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.frmMain.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.frmFind.resources
