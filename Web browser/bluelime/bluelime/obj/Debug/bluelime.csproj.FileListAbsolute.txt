@@ -1,0 +1,9 @@
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\bluelime\bluelime\bin\Debug\bluelime.exe.config
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\bluelime\bluelime\bin\Debug\bluelime.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\bluelime\bluelime\bin\Debug\bluelime.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\bluelime\bluelime\obj\Debug\bluelime.csprojResolveAssemblyReference.cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\bluelime\bluelime\obj\Debug\bluelime.frmMain.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\bluelime\bluelime\obj\Debug\bluelime.Properties.Resources.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\bluelime\bluelime\obj\Debug\bluelime.csproj.GenerateResource.Cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\bluelime\bluelime\obj\Debug\bluelime.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\bluelime\bluelime\obj\Debug\bluelime.pdb
