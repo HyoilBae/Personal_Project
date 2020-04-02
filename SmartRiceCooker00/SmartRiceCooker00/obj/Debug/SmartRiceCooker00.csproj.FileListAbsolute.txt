@@ -16,3 +16,10 @@ C:\Users\hyoil\source\repos\C#\Personal_Project\SmartRiceCooker00\SmartRiceCooke
 C:\Users\hyoil\source\repos\C#\Personal_Project\SmartRiceCooker00\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.exe.config
 C:\Users\hyoil\source\repos\C#\Personal_Project\SmartRiceCooker00\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.exe
 C:\Users\hyoil\source\repos\C#\Personal_Project\SmartRiceCooker00\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.pdb
+C:\Users\hyoil\source\repos\Personal_Project\SmartRiceCooker00\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.exe.config
+C:\Users\hyoil\source\repos\Personal_Project\SmartRiceCooker00\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.exe
+C:\Users\hyoil\source\repos\Personal_Project\SmartRiceCooker00\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.pdb
+C:\Users\hyoil\source\repos\Personal_Project\SmartRiceCooker00\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\Personal_Project\SmartRiceCooker00\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.csproj.CoreCompileInputs.cache
+C:\Users\hyoil\source\repos\Personal_Project\SmartRiceCooker00\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.exe
+C:\Users\hyoil\source\repos\Personal_Project\SmartRiceCooker00\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.pdb
