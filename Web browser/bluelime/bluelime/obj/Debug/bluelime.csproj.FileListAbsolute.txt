@@ -7,3 +7,13 @@ c:\users\bluelime learning so\documents\visual studio 2015\Projects\bluelime\blu
 c:\users\bluelime learning so\documents\visual studio 2015\Projects\bluelime\bluelime\obj\Debug\bluelime.csproj.GenerateResource.Cache
 c:\users\bluelime learning so\documents\visual studio 2015\Projects\bluelime\bluelime\obj\Debug\bluelime.exe
 c:\users\bluelime learning so\documents\visual studio 2015\Projects\bluelime\bluelime\obj\Debug\bluelime.pdb
+C:\Users\hyoil\source\repos\Personal_Project\Web browser\bluelime\bluelime\bin\Debug\bluelime.exe.config
+C:\Users\hyoil\source\repos\Personal_Project\Web browser\bluelime\bluelime\bin\Debug\bluelime.exe
+C:\Users\hyoil\source\repos\Personal_Project\Web browser\bluelime\bluelime\bin\Debug\bluelime.pdb
+C:\Users\hyoil\source\repos\Personal_Project\Web browser\bluelime\bluelime\obj\Debug\bluelime.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\Personal_Project\Web browser\bluelime\bluelime\obj\Debug\bluelime.frmMain.resources
+C:\Users\hyoil\source\repos\Personal_Project\Web browser\bluelime\bluelime\obj\Debug\bluelime.Properties.Resources.resources
+C:\Users\hyoil\source\repos\Personal_Project\Web browser\bluelime\bluelime\obj\Debug\bluelime.csproj.GenerateResource.cache
+C:\Users\hyoil\source\repos\Personal_Project\Web browser\bluelime\bluelime\obj\Debug\bluelime.csproj.CoreCompileInputs.cache
+C:\Users\hyoil\source\repos\Personal_Project\Web browser\bluelime\bluelime\obj\Debug\bluelime.exe
+C:\Users\hyoil\source\repos\Personal_Project\Web browser\bluelime\bluelime\obj\Debug\bluelime.pdb
